@@ -1,0 +1,135 @@
+html, body{
+    height: 100%;
+    overflow-x: hidden;
+}
+
+body{
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+
+/*cabeçalho*/
+.start{
+    margin-top: 60px;
+    border: 1px solid #000000;
+    width: 39px;
+    height: 0px;
+    position: fixed;
+}
+
+.cabecalho{
+    margin-top: 150px;
+}
+
+.linha-1{
+    border: 1px solid #000000;
+    width: 600px;
+    height: 0px;
+    margin-top: 15px;  
+}
+
+.cabecalho-2{
+    font-size: 25px;
+    margin-top: 70px;
+    
+}
+
+.menu{
+    text-decoration: underline 2px;
+    font-size: 15px;
+    margin-top: 60px;
+}
+
+.lista{
+    margin-left: 80px;
+}
+
+a:hover{
+    text-decoration: line-through;
+}
+
+.linha-2{
+    border: 1px solid #000000;
+    width: 400px;
+    height: 0px;
+    margin-top: 20px;
+}
+
+/*collagens*/
+
+.img1, .img2{
+    width: 80%;
+    margin-top: 10px;
+    margin-left: 80px;
+}
+
+.linha-3{
+    border: 1px solid #000000;
+    width: 600px;
+    height: 0px;
+    margin-top: 10px;
+    
+} 
+
+/*about*/
+
+.about{
+    margin-top: 80px;
+    margin-left: 100px;
+    
+}
+
+h6{
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    
+}
+
+.textabout{
+    margin-top: 70px;
+
+}
+
+.textabout1{
+    margin-left: 100px;
+    
+}
+
+.t1, .t3{
+    padding-right: 100px;
+    
+
+}
+
+.linha-4{
+    border: 1px solid #000000;
+    width: 400px;
+    height: 0px;
+    margin-bottom: 80px;
+   
+    
+} 
+
+/*contact*/
+
+.contact{
+    margin-left: 200px;
+}
+
+.contact, h6{
+    font-size: 17px;
+    text-decoration: overline;
+}
+
+.img-contact{
+    width: 60px;
+   
+}
+
+.redes{
+  margin-bottom: 60px;
+}
+
